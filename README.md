@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Paradise Nursery 🌱
+
+Welcome to **Paradise Nursery** — a beautiful houseplant shopping app built with React!
+
+## Features
+- 🌿 Landing Page with background image, company intro, and Get Started button
+- 🪴 Product Listing page with 6+ plants organized by category
+- 🛒 Add plants to Shopping Cart
+- 🔄 Adjust quantity, remove items in Cart
+- 💵 Dynamic cart total and item count updates
+- 🧭 Navigation between pages
+- 🎨 Fully responsive and clean design
+
+## Built With
+- React (CRA - Create React App)
+- React Router DOM
+- React Icons
+- Context API + useReducer (for Cart Management)
+
+## Pages
+- **Landing Page** - Welcome, Get Started
+- **Product Listing Page** - Browse Plants
+- **Shopping Cart Page** - View Cart, Checkout
+
+## Setup Instructions
+1. Clone the repository
+2. Install dependencies
+   ```bash
+   npm install
+>>>>>>> 3e5c32de479671fc7a01153baecab5ecbb7cda00
